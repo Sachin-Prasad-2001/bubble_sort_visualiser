@@ -1,0 +1,9 @@
+#myCanvas{
+    background-color:black;
+}
+
+#comparisons{
+    background-color:red;
+    position:relative;
+    left:900;
+}
